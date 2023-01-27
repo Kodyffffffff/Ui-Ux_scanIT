@@ -1,8 +1,8 @@
-# Demo Project("ScanIT") -> UX/UI Design
+# Demo Project("ScanIT") -> UX/UI Design 💻
 
-<h1>Detect skin disease with machine learning</h1>
+<h1>Detect skin disease with machine learning 🔬🦠</h1>
 </br>
-<h2>Solution overview</h2>
+<h2>Solution overview 🖇️🖇️</h2>
 <ol>
 <li>Help to know the existing skin disease</li>
 <li>Helps to know the cause of skin disease</li>
@@ -12,7 +12,7 @@
 <li>Help introduce the clinic</li>
 </ol>
 </br>
-<h2>Step of us</h2>
+<h2>Step of us 📝📝</h2>
 <ol>
 <li>Press the start button to start using the app</li>
 <li>Choose if it’s yourself or someone else</li>
