@@ -24,3 +24,5 @@
 <li>Open the camera to scan</li>
 <li>recommended dermatology clinic</li>
 </ol>
+<h1>In detect skin disease will be use Azure custom vision Link in here</h1>
+<a href="https://www.w3schools.com">Visit W3Schools.com!</a>
