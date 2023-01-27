@@ -18,4 +18,9 @@
 <li>Choose if it’s yourself or someone else</li>
 <li>Choose which part of the body is affected</li>
 <li>Open the camera to scan</li>
+<li>Scan for skin disease</li>
+<li>Identify common symptoms that are</li>
+<li>Let machine learning process it and showing the results of skin disease that are</li>
+<li>Open the camera to scan</li>
+<li>recommended dermatology clinic</li>
 </ol>
