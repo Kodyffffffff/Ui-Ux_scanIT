@@ -25,4 +25,4 @@
 <li>recommended dermatology clinic</li>
 </ol>
 <h1>In detect skin disease will be use Azure custom vision Link in here</h1>
-<a href="">Visit W3Schools.com!</a>
+<a href="https://github.com/Kodyffffffff/web_scanDisease">Visit Repo Demo!</a>
